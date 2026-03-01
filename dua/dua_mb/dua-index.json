@@ -1,0 +1,228 @@
+{
+  "title": "Dua Collections Index",
+  "total_categories": 37,
+  "categories": [
+    {
+      "id": 1,
+      "name": "ঈমান অধ্যায়",
+      "total_duas": 10,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_01.json"
+    },
+    {
+      "id": 2,
+      "name": "তাহারাত (পাক-পবিত্রতা) অধ্যায়",
+      "total_duas": 3,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_02.json"
+    },
+    {
+      "id": 3,
+      "name": "উযূ অধ্যায়",
+      "total_duas": 6,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_03.json"
+    },
+    {
+      "id": 4,
+      "name": "আযান-ইকামাত অধ্যায়",
+      "total_duas": 3,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_04.json"
+    },
+    {
+      "id": 5,
+      "name": "মসজিদ অধ্যায়",
+      "total_duas": 4,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_05.json"
+    },
+    {
+      "id": 6,
+      "name": "নামাযের মধ্যে দু‘আ অধ্যায়",
+      "total_duas": 18,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_06.json"
+    },
+    {
+      "id": 7,
+      "name": "নামাযের শেষে দু‘আ পড়ার অধ্যায়",
+      "total_duas": 5,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_07.json"
+    },
+    {
+      "id": 8,
+      "name": "নফল নামায অধ্যায়",
+      "total_duas": 4,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_08.json"
+    },
+    {
+      "id": 9,
+      "name": "রাব্বানা দু‘আ অধ্যায় (কুরআনে বর্ণিত)",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_09.json"
+    },
+    {
+      "id": 10,
+      "name": "সকাল সন্ধার আমল অধ্যায়",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_10.json"
+    },
+    {
+      "id": 11,
+      "name": "দুরুদ পাঠ অধ্যায়",
+      "total_duas": 6,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_11.json"
+    },
+    {
+      "id": 12,
+      "name": "ইস্তিগফার ও কৃতজ্ঞতা অধ্যায়",
+      "total_duas": 10,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_12.json"
+    },
+    {
+      "id": 13,
+      "name": "খাবার ও পানাহার অধ্যায়",
+      "total_duas": 13,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_13.json"
+    },
+    {
+      "id": 14,
+      "name": "ঘুম অধ্যায়",
+      "total_duas": 17,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_14.json"
+    },
+    {
+      "id": 15,
+      "name": "বাসস্থান অধ্যায়",
+      "total_duas": 15,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_15.json"
+    },
+    {
+      "id": 16,
+      "name": "সফর অধ্যায়",
+      "total_duas": 18,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_16.json"
+    },
+    {
+      "id": 17,
+      "name": "পরিবার সম্পর্কিত অধ্যায়",
+      "total_duas": 15,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_17.json"
+    },
+    {
+      "id": 18,
+      "name": "সাজসজ্জা অধ্যায়",
+      "total_duas": 6,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_18.json"
+    },
+    {
+      "id": 19,
+      "name": "সামাজিকতা অধ্যায়",
+      "total_duas": 19,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_19.json"
+    },
+    {
+      "id": 20,
+      "name": "বিভিন্ন পরিস্থিতিতে পাঠ্য দু‘আ অধ্যায়",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_20.json"
+    },
+    {
+      "id": 21,
+      "name": "সুস্থতা-অসুস্থতা অধ্যায়",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_21.json"
+    },
+    {
+      "id": 22,
+      "name": "ঝড়-বৃষ্টি অধ্যায়",
+      "total_duas": 8,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_22.json"
+    },
+    {
+      "id": 23,
+      "name": "রমযান অধ্যায়",
+      "total_duas": 10,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_23.json"
+    },
+    {
+      "id": 24,
+      "name": "ঈদ অধ্যায়",
+      "total_duas": 5,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_24.json"
+    },
+    {
+      "id": 25,
+      "name": "হজ্জ অধ্যায়",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_25.json"
+    },
+    {
+      "id": 26,
+      "name": "ফযীলতপূর্ণ সূরা সমূহের অধ্যায়",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_26.json"
+    },
+    {
+      "id": 27,
+      "name": "মানযিল (কুরআনে বর্ণিত আয়াতের মাধ্যমে দ্রুত মুক্তি লাভ করা) অধ্যায়",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_27.json"
+    },
+    {
+      "id": 28,
+      "name": "জামে দু‘আ অধ্যায়",
+      "total_duas": 18,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_28.json"
+    },
+    {
+      "id": 29,
+      "name": "রুকাইয়ার দু&#x27;আ সমূহের অধ্যায় (কুরআন ও হাদীসে বর্ণিত",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_29.json"
+    },
+    {
+      "id": 30,
+      "name": "মৃত্যুর পূর্বাপর পড়ার দু‘আ সমূহ অধ্যায়",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_30.json"
+    },
+    {
+      "id": 31,
+      "name": "মুনাজাতে মাকবুল - শনিবার",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_31.json"
+    },
+    {
+      "id": 32,
+      "name": "মুনাজাতে মাকবুল - রবিবার",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_32.json"
+    },
+    {
+      "id": 33,
+      "name": "মুনাজাতে মাকবুল - সোমবার",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_33.json"
+    },
+    {
+      "id": 34,
+      "name": "মুনাজাতে মাকবুল - মঙ্গলবার",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_34.json"
+    },
+    {
+      "id": 35,
+      "name": "মুনাজাতে মাকবুল - বুধবার",
+      "total_duas": 20,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_35.json"
+    },
+    {
+      "id": 36,
+      "name": "মুনাজাতে মাকবুল - বৃহস্পতিবার",
+      "total_duas": 16,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_36.json"
+    },
+    {
+      "id": 37,
+      "name": "মুনাজাতে মাকবুল - শুক্রবার",
+      "total_duas": 16,
+      "file": "https://cdn.jsdelivr.net/gh/ankitasinhacse-ui/ref@main/dua/dua_mb/category_37.json"
+    }
+  ]
+}
