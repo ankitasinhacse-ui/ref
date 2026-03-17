@@ -1,4 +1,6 @@
-[
+{
+  "total_books": 1379,
+  "books": [
   {
     "name": "তাকওয়া অর্জনের উপায়",
     "writer": "মুফতী মুহাম্মাদ তাকী উসমানী",
@@ -12411,3 +12413,5 @@
     "writer_img": "https://ref-icons.pages.dev/2.png"
   }
 ]
+
+}
